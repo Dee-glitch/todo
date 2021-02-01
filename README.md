@@ -2,16 +2,16 @@ ToDo
 
 ToDo is a simple web application to save Your daily tasks in order not to miss anything.
 
-    Add new task
-    Mark task as completed / uncompleted
-    Search task
-    Edit task
-    Delete single task
-    Delete completed tasks
-    Delete all tasks
+    - Add new task
+    - Mark task as completed / uncompleted
+    - Search tasks
+    - Edit task
+    - Delete single task
+    - Delete completed tasks
+    - Delete all tasks
 
 Technologies used:
 
-    HTML
-    CSS/Bootstrap
-    JavaScript
+    - HTML
+    - CSS/Bootstrap
+    - JavaScript
